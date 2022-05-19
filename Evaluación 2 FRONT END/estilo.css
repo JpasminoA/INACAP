@@ -1,0 +1,17 @@
+p{
+    text-align: justify;
+}
+
+footer{
+    background-color: orange;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: black;
+}
